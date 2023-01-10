@@ -1,1 +1,1 @@
-console.log('Test pipeline')
+console.log('Test2 pipeline')
